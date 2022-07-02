@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
--->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehani+Perera;SLIIT+Undergraduate)](https://git.io/typing-svg)
 
 ##
